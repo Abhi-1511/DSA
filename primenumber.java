@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+class primenumber {
     public static void main(String[] args) {
         int[] arr =new int[11];
          boolean f = true;
